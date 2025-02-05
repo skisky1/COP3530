@@ -1,0 +1,32 @@
+#navbar{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 60px;
+}
+
+li a {
+  display: block;
+}
+h1{
+  font-display: sans-serif;
+}
+h2{
+  font-display: sans-serif;
+}
+h3{
+  font-display: sans-serif
+}
+
+a:hover{
+  background-color: #555;
+  color: #fe3
+}
+body{
+  text-align: center;
+  background-color: #f0ead6
+}
+
+p{
+  color: #f03e;
+}
